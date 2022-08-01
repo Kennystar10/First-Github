@@ -1,0 +1,99 @@
+#body{
+    background-color: rgba(8, 7, 7, 0.932);
+}
+
+#M{
+    color: orange;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+}
+
+#section{
+    margin-left: 700px;
+    
+}
+
+#AM{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -35px;
+}
+
+#CM{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+    margin-top: -35px;
+}
+
+#C{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 240px;
+    margin-top: -35px;
+}
+
+#L{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 0px ;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, orange , crimson);
+    color: white;
+    height: 38px;
+    width: 80px;
+    margin-left: 360px;
+    margin-top: -50px;
+    padding-left: 25px;
+    padding-bottom: 8px;
+    padding-top: 2px;
+    
+}
+
+#SU{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    height: 0px;
+    width: 80px;
+    border: solid 2px crimson;
+    border-radius: 28px;
+    margin-left: 490px;
+    margin-top: -48px;
+    padding-left: 20px;
+    padding-bottom: 45px;
+    padding-top: -20px;
+    
+}
+
+#line{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+#l1{
+    color: gray;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+#s1{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+}
+
+#s2{
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    margin-left: 170px;
+    margin-top: -80px;
+}
+
+#l3{
+    color: gray;
+    font-family: cursive;
+    font-size: 25px;
+}
